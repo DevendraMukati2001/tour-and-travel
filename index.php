@@ -279,12 +279,12 @@ Our travel experts can help you book now!</h4>
 		  <div class="contact-grids">
 			  <div class="container">
 				  <div class="col-md-4 address">
-						<h4 style="color:#09F">AMIT Enterprises</h4>
+						<h4 style="color:#09F">Devendra Mukati Enterprises</h4>
 						<p style="color:#000">NEED HELP BOOKING PACKAGE<br/>
                         For fantastic suggestions you may also call our travel expert</p>
-						<h5 style="color:#000"><span class="img1"></span>(+91) 8097204164</h5>
+						<h5 style="color:#000"><span class="img1"></span>(+91) 7470533937</h5>
 						<h5 style="color:#000"><span class="img2"></span><a href="#">info@tourstravelblog.com<br />support@tourstravelblog.com</a></h5>
-						<h5 style="color:#000"><span class="img3"></span>1100 Link street, Navi Mumbai, India.</h5>
+						<h5 style="color:#000"><span class="img3"></span>Pithampur Industrial area M.P, India.</h5>
                         <br/>
                        <img src="images/contact.png" height="50%" width="50%" />
                       </div>
